@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ModalandPopover",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
